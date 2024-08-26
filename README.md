@@ -19,7 +19,7 @@ I used two datasets to create HR Analytics Power BI Dashboard and the HR Employe
     - Total employee by Job Role and Job Satisfaction
     - Monthly rate by Job Role
  
-The dashboard
+
 
 ![Screenshot 2024-08-15 133010](https://github.com/user-attachments/assets/72142d18-1c5e-493e-a3ed-8b71d5862653)
 
